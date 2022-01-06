@@ -19,6 +19,6 @@
 
 ## Remarques éventuelles
 
-Merci d'indiquer si vous avez fait l'exercice sur téléphone ou émulateur. 
+Merci d'indiquer si vous avez fait l'exercice sur téléphone ou émulateur : telephone
 
 Ajouter vos remarques ici si besoin
